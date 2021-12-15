@@ -7,3 +7,7 @@ this data pipeline makes an API call to https://4feaquhyai.execute-api.us-east-1
 3. an analysis of the data values pushed to _pi.db_ 
 
 _data ingestion project completed in fulfillment of data science systems (ds 3002) under jason williamson_
+
+___
+
+test
