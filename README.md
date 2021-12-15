@@ -10,7 +10,7 @@ _data ingestion project completed in fulfillment of data science systems (ds 300
 
 ___
 
-requests to the api return a data row containing 2 integer fields – `factor` and `pi` – and a string value of the time the api call was made (`time`).
+requests to the api return a data row containing 2 integer fields – `factor` and `pi` – and a string key containing the time the api call was made (`time`).
 
 ```
 {'factor': 1, 'pi': 4.0, 'time': '2021-12-15 02:00:11'} 
@@ -18,3 +18,5 @@ requests to the api return a data row containing 2 integer fields – `factor` a
 {'factor': 8, 'pi': 3.017071817071818, 'time': '2021-12-15 02:02:11'} 
 {'factor': 27, 'pi': 3.1786170109992202, 'time': '2021-12-15 02:03:11'} 
 ```
+
+after comprehensive analysis, we can conclude `factor` to be the _minute_ value of time cubed. from 0 (`0^3 = 1`) to 59 (`59^3 = 205379`)
