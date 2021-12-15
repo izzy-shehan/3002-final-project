@@ -27,5 +27,6 @@ after comprehensive analysis, we can conclude `factor` to be the _minute_ value 
 4*(1/1 - 1/3 + 1/5 - 1/7 + ...) = 4*summation from n=0 to ∞ of ((-1)^n)/(2n+1)
 ```
 
+the number of terms in the expansion (i.e. `1/1 - 1/3 + 1/5 - 1/7`) 
 
 
