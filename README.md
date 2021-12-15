@@ -23,8 +23,8 @@ after comprehensive analysis, we can conclude `factor` to be the _minute_ value 
 
 `pi` is the taylor series approximation of `π` expanded by 'factor' terms, where the taylor series can be represented with
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
+```
+4*(1/1 - 1/3 + 1/5 - 1/7 + ...) = 4*summation from n=0 to ∞ of ((-1)^n)/(2n+1)
 ```
 
 
