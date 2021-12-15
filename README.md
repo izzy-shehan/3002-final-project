@@ -10,4 +10,7 @@ _data ingestion project completed in fulfillment of data science systems (ds 300
 
 ___
 
-test
+{'factor': 1, 'pi': 4.0, 'time': '2021-12-15 02:00:13'}
+{'factor': 1, 'pi': 4.0, 'time': '2021-12-15 02:01:11'}
+{'factor': 8, 'pi': 3.017071817071818, 'time': '2021-12-15 02:02:11'}
+{'factor': 27, 'pi': 3.1786170109992202, 'time': '2021-12-15 02:03:11'}
