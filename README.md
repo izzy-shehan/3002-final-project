@@ -33,3 +33,4 @@ the number of terms in the expansion (i.e. 4 terms = `1/1 - 1/3 + 1/5 - 1/7`) is
 `factor` = `8` = `4*(1/1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11 + 1/13 - 1/15)` = `3.017071817071818`
 
 
+this behavior is static across time.
