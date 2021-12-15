@@ -21,7 +21,11 @@ requests to the api return a data row containing 2 integer fields – `factor` a
 
 after comprehensive analysis, we can conclude `factor` to be the _minute_ value of time cubed from 0 (`0^3 = 1`) to 59 (`59^3 = 205379`).
 
-`pi` is the taylor series approximation of `&pi` expanded by 'factor' terms, where the taylor series is 
+`pi` is the taylor series approximation of `π` expanded by 'factor' terms, where the taylor series can be represented with
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 
 
